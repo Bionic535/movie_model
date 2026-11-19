@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+scikit-learn
+requests
+python-dotenv
+python-decouple
+boto3
